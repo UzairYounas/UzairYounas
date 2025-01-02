@@ -1,5 +1,6 @@
-# Hey there, I'm Uzair!
+# 👋Hey there, I'm Uzair!
 🚀 React JS Developer | 🌱 API Integration | 🎯 Problem Solver
+
 
 # 💫 About Me:
   . 👩‍💻 Frontend Developer
