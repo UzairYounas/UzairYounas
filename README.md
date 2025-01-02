@@ -3,10 +3,10 @@
 
 
 # 💫 About Me:
-  . 👩‍💻 Frontend Developer
-  .  🏢 Currently learning Node JS.
-  .  💻 Specializing in React, Next.js, and scalable systems.
-  .  🌍 Open to freelance projects and collaboration on innovative apps.
+  . 👩‍💻 Frontend Developer <br/>
+  .  🏢 Currently learning Node JS.<br/>
+  .  💻 Specializing in React, Next.js, and scalable systems.<br/>
+  .  🌍 Open to freelance projects and collaboration on innovative apps.<br/>
 
 
 # 💻 Tech Stack:
