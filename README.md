@@ -6,7 +6,7 @@
   . 👩‍💻 Frontend Developer <br/>
   .  🏢 Currently learning Node JS.<br/>
   .  💻 Specializing in React, Next.js, and scalable systems.<br/>
-  .  🌍 Open to freelance projects and collaboration on innovative apps.<br/>
+  .  🌍 Open to freelance projects and collaboration on innovative web apps.<br/>
 
 
 # 💻 Tech Stack:
